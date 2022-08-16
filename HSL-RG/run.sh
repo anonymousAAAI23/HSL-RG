@@ -1,0 +1,1 @@
+python main.py --map_layer 0 --adapt_weight 5 --inner_update_step 1 --update_step_test 1 --rel-layer 1 --n-shot-train 1 --n-shot-test 1 --inner-lr 0.1 --eval_steps 100 --dropout 0.1 --dataset sider --test-dataset sider --save-steps 2000 --aug rule --aug-num 2 --consi 0.1 --epochs 5500 --node-n-layer 2 --seed 5 --mlp-lr 0.001 --batch_task 21
